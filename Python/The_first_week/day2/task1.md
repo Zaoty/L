@@ -30,11 +30,11 @@ while L1 < l and L2 < l :
     if (L1 - L2) > t :
         L2 = v2 * (second2 + s)
         second1 = second2 - s
-    if L1 > l :
+if L1 > l :
         print("R")
-    elif L2 > l :
+elif L2 > l :
         print("T")
-    else :
+else :
         print("D")
 print(second2)
 ```
