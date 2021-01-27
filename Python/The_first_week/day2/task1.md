@@ -24,12 +24,13 @@ L1=v1
 L2=v2
 n = 0
 seconds = range(1, l//v2 +1 )
-for second in seconds:
-    L1 = v1 * (second - n)
-    L2 = v2 * second
-    if (L1 - L2) >= t:
-        n += 1
-    continue
+while L1 < l and L2 < l:
+    for second in seconds :
+        L1 = v1 * (second - n)
+        L2 = v2 * second
+        if (L1 - L2) >= t:
+            n += 1
+        continue
 if L1 == L2 :
         print("D")
 elif L1 > L2 :
