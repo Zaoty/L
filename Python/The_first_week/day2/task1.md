@@ -17,29 +17,23 @@ for num in range (1500 , 2700) :
 ```
 v1=10
 v2=5
-l=1000
+l=20
 t=5
-s=1
-second1 = second2 = 1
+s=2
 L1=v1
 L2=v2
-while L1 < l and L2 < l:
-    L1 = v1 * second1
-    L2 = v2 * second2
+n = 0
+seconds = range(1, l//v2 +1 )
+for second in seconds:
+    L1 = v1 * (second - n)
+    L2 = v2 * second
     if (L1 - L2) >= t:
-        second2 += s
-        L2 = v2 * ( second2 )
-        second1 = second2 - s
-        L1 = v1 * second1
-    else :
-        second2 += 1
-        L2 = v2 * ( second2 )
-        L1 = v1 * second1
+        n += 1
+    continue
 if L1 == L2 :
         print("D")
 elif L1 > L2 :
         print("R")
 elif L1 < L2 :
         print("T")
-print(second2)
-
+print(second)
