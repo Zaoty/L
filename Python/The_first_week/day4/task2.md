@@ -12,7 +12,7 @@
 
 分析为什么会出现这样的结果.
 
-![image-20210129170342852](C:\Users\12813\AppData\Roaming\Typora\typora-user-images\image-20210129170342852.png)
+![image-20210129170342852]https://github.com/Zaoty/L/blob/main/Python/The_first_week/day4/image-20210129170342852.png
 
 ()中含有逗号，被视为元组
 
