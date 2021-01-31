@@ -35,7 +35,7 @@ a = sum(lst)
 print(a)
 ```
 
-![image-20210131235529323](C:\Users\12813\AppData\Roaming\Typora\typora-user-images\image-20210131235529323.png)
+![image-20210131235529323](https://github.com/Zaoty/L/blob/main/Python/The_first_week/day5/5.png)
 
 4.
 
@@ -46,7 +46,7 @@ for i in a:
     print(b)
 ```
 
-![image-20210131235411567](C:\Users\12813\AppData\Roaming\Typora\typora-user-images\image-20210131235411567.png)
+![image-20210131235411567](https://github.com/Zaoty/L/blob/main/Python/The_first_week/day5/3.png)
 
 5.
 
@@ -57,5 +57,5 @@ c = zip(a,b)
 print(list(c))
 ```
 
-![image-20210131235454635](C:\Users\12813\AppData\Roaming\Typora\typora-user-images\image-20210131235454635.png)
+![image-20210131235454635](https://github.com/Zaoty/L/blob/main/Python/The_first_week/day5/4.png)
 
