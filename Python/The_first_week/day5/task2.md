@@ -29,5 +29,5 @@ n = len(C)
 print(n)
 ```
 
-![image-20210131180520283](C:\Users\12813\AppData\Roaming\Typora\typora-user-images\image-20210131180520283.png)
+![image-20210131180520283](https://github.com/Zaoty/L/blob/main/Python/The_first_week/day5/2.png)
 
