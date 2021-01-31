@@ -64,7 +64,7 @@ dic.update(dic1)
 print(dic)
 ```
 
-![image-20210131142640769](C:\Users\12813\AppData\Roaming\Typora\typora-user-images\image-20210131142640769.png)
+![image-20210131142640769](https://github.com/Zaoty/L/blob/main/Python/The_first_week/day5/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-01-31%20142550.png)
 
 2、字典中的value
 
