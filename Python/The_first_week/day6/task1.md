@@ -34,7 +34,7 @@ a.sort(key=lambda a: a[1],reverse=True)
 print(a)
 ```
 
-![image-20210202014738688](C:\Users\12813\AppData\Roaming\Typora\typora-user-images\image-20210202014738688.png)
+![image-20210202014738688](https://github.com/Zaoty/L/blob/main/Python/The_first_week/day6/2.1%201.png)
 
 5.
 
@@ -55,4 +55,4 @@ hanota(3,'a','b','c')
 
 ```
 
-![image-20210202015111452](C:\Users\12813\AppData\Roaming\Typora\typora-user-images\image-20210202015111452.png)
+![image-20210202015111452](https://github.com/Zaoty/L/blob/main/Python/The_first_week/day6/2.1%202.png)
